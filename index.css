@@ -1,0 +1,34 @@
+/*
+Main Css Script
+*/
+
+/**
+ * Reset Start
+ **/
+html,
+body,
+canvas
+{
+    margin: 0;
+    padding: 0;
+}
+/**
+ * Reset End
+ **/
+
+/**
+ * Layout Start
+ **/
+html
+{
+    width: 100%;
+    height: 100%;
+}
+/**
+ * Layout End
+ **/
+canvas {
+	display: block;
+	margin: 0 auto;
+	background: black;
+}
